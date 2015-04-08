@@ -1,0 +1,22 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ledung123/trainningforNguyen.git"
+  },
+  "author": "Nguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ledung123/trainningforNguyen/issues"
+  },
+  "homepage": "https://github.com/ledung123/trainningforNguyen",
+  "dependencies": {
+    "express": "^4.12.3"
+  }
+}
